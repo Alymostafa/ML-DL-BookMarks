@@ -8,5 +8,6 @@ Bishop: Pattern Recognition and Machine Learning | Book | |
 Gaussain Process | [Book & Video](https://youtu.be/4vGiHC35j9s)|  | 
 Gradient Boosting | TBD |  | 
 Graph Neural Networks | [Blog](https://distill.pub/2021/gnn-intro/) || 
+Evolutionary Algorithms | [Books](https://drive.google.com/drive/folders/1qTkA7Aq0V3-APEC65Gw69TDBpgN6L20m)&[Videos](https://www.youtube.com/watch?v=3-NiZPbkr7A)|| 
 BigBird | [Blog](https://ai.googleblog.com/2021/03/constructing-transformers-for-longer.html) || 
 
