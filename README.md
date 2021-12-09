@@ -13,3 +13,4 @@ BigBird | [Blog](https://ai.googleblog.com/2021/03/constructing-transformers-for
 Active Learning| [Blog](https://www.datacamp.com/community/tutorials/active-learning) |  | 
 DeepMind LMs | | |
 OpenAI Inventions | | | 
+SSL |  |  |
