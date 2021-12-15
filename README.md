@@ -14,3 +14,4 @@ Active Learning| [Blog](https://www.datacamp.com/community/tutorials/active-lear
 DeepMind LMs | | |
 OpenAI Inventions | | | 
 SSL |  |  |
+k-medoids algorithm | [Paper](https://arxiv.org/abs/2006.06856)|
