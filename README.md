@@ -1,8 +1,8 @@
 # ML/DL-study-plan
 -----------------------------
 
-Topic | Resources | Done|
-------------  |------|----|
+Topic | Resources |
+------------  |------|
 Statistical Machine Learning — Ulrike von Luxburg, 2020 | [Youtube](https://youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC) | |  
 Bishop: Pattern Recognition and Machine Learning | Book | | 
 Gaussain Process | [Book & Video](https://youtu.be/4vGiHC35j9s)|  | 
