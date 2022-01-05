@@ -5,3 +5,4 @@ Perceiver: General Perception with Iterative Attention | [Paper](https://arxiv.o
 Language Models are Few-Shot Learners | [Paper](https://arxiv.org/pdf/2005.14165.pdf) & [Blog](https://docs.cohere.ai/)
 On the Spectral Bias of Neural Networks | [Paper](https://arxiv.org/pdf/1806.08734.pdf)
 Shortcut Learning in Deep Neural Networks | [Paper](https://arxiv.org/pdf/2004.07780.pdf)
+Gradient Starvation: A Learning Proclivity in Neural Networks | [Paper](https://arxiv.org/abs/2011.09468)
