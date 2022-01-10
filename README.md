@@ -17,3 +17,4 @@ SSL |  |  |
 k-medoids algorithm | [Paper](https://arxiv.org/abs/2006.06856)|
 Physics-informed neural network|[Blog](https://benmoseley.blog/my-research/so-what-is-a-physics-informed-neural-network/)|
 DL Course|[Website](http://www.cs.umd.edu/class/fall2020/cmsc828W/)
+ScaNN (Scalable Nearest Neighbors) | [Github](https://github.com/google-research/google-research/tree/master/scann)
