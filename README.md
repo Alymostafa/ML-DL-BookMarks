@@ -1,4 +1,4 @@
-# ML/DL-study-plan
+# ML/DL-Resources
 -----------------------------
 
 Topic | Resources |
