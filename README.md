@@ -19,3 +19,4 @@ Physics-informed neural network|[Blog](https://benmoseley.blog/my-research/so-wh
 DL Course|[Website](http://www.cs.umd.edu/class/fall2020/cmsc828W/)
 ScaNN (Scalable Nearest Neighbors) | [Github](https://github.com/google-research/google-research/tree/master/scann)
 WebGPT: Improving the factual accuracy of language models through web browsing | [Blog](https://openai.com/blog/improving-factual-accuracy/)
+Deep Double Descent | [Blog](https://openai.com/blog/deep-double-descent/)
