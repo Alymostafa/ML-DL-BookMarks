@@ -7,3 +7,4 @@ On the Spectral Bias of Neural Networks | [Paper](https://arxiv.org/pdf/1806.087
 Shortcut Learning in Deep Neural Networks | [Paper](https://arxiv.org/pdf/2004.07780.pdf)
 Gradient Starvation: A Learning Proclivity in Neural Networks | [Paper](https://arxiv.org/abs/2011.09468)
 REALM: Retrieval-Augmented Language Model Pre-Training | [Paper](https://arxiv.org/abs/2002.08909)
+Improving language models by retrieving from trillions of tokens | [Paper](https://arxiv.org/abs/2112.04426)
