@@ -1,4 +1,4 @@
-# ML/DL-Resources
+# ML/DL-BookMarks
 -----------------------------
 
 Topic | Resources |
