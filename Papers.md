@@ -8,3 +8,4 @@ Shortcut Learning in Deep Neural Networks | [Paper](https://arxiv.org/pdf/2004.0
 Gradient Starvation: A Learning Proclivity in Neural Networks | [Paper](https://arxiv.org/abs/2011.09468)
 REALM: Retrieval-Augmented Language Model Pre-Training | [Paper](https://arxiv.org/abs/2002.08909)
 Improving language models by retrieving from trillions of tokens | [Paper](https://arxiv.org/abs/2112.04426)
+Extracting Training Data from Large Language Models | [Paper](https://arxiv.org/abs/2012.07805)
