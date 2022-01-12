@@ -9,3 +9,4 @@ Gradient Starvation: A Learning Proclivity in Neural Networks | [Paper](https://
 REALM: Retrieval-Augmented Language Model Pre-Training | [Paper](https://arxiv.org/abs/2002.08909)
 Improving language models by retrieving from trillions of tokens | [Paper](https://arxiv.org/abs/2112.04426)
 Extracting Training Data from Large Language Models | [Paper](https://arxiv.org/abs/2012.07805)
+Masked Autoencoders Are Scalable Vision Learners |[Paper](https://arxiv.org/abs/2111.06377)
