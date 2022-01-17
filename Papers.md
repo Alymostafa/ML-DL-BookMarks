@@ -11,3 +11,4 @@ Improving language models by retrieving from trillions of tokens | [Paper](https
 Extracting Training Data from Large Language Models | [Paper](https://arxiv.org/abs/2012.07805)
 Masked Autoencoders Are Scalable Vision Learners |[Paper](https://arxiv.org/abs/2111.06377)
 An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale | [Paper](https://arxiv.org/abs/2010.11929)
+Scaling Language Models: Methods, Analysis & Insights from Training Gopher | [Paper](https://storage.googleapis.com/deepmind-media/research/language-research/Training%20Gopher.pdf)
