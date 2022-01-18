@@ -23,3 +23,4 @@ Deep Double Descent | [Blog](https://openai.com/blog/deep-double-descent/)
 gram Jaccard similarity MiniHash | 
 What is inductive Bias | [Blog](https://www.lesswrong.com/posts/H59YqogX94z5jb8xx/inductive-bias)
 When does label smoothing help 
+Statistical Rethinking 2022
