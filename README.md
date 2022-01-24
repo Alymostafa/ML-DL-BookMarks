@@ -24,3 +24,7 @@ gram Jaccard similarity MiniHash |
 What is inductive Bias | [Blog](https://www.lesswrong.com/posts/H59YqogX94z5jb8xx/inductive-bias)
 When does label smoothing help 
 Statistical Rethinking 2022
+Macaw Language Model | [Github](https://github.com/allenai/macaw)
+Fast KNN | [Github](https://github.com/criteo/autofaiss)
+speed up your Scikit-learn application | [Github](https://github.com/intel/scikit-learn-intelex)
+interviews.ai | [Github](https://github.com/BoltzmannEntropy/interviews.ai)
