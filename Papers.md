@@ -12,3 +12,4 @@ Extracting Training Data from Large Language Models | [Paper](https://arxiv.org/
 Masked Autoencoders Are Scalable Vision Learners |[Paper](https://arxiv.org/abs/2111.06377)
 An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale | [Paper](https://arxiv.org/abs/2010.11929)
 Scaling Language Models: Methods, Analysis & Insights from Training Gopher | [Paper](https://storage.googleapis.com/deepmind-media/research/language-research/Training%20Gopher.pdf)
+Inductive Biases for Deep Learning of Higher-Level Cognition | [Paper](https://arxiv.org/pdf/2011.15091.pdf)
