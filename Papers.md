@@ -13,3 +13,4 @@ Masked Autoencoders Are Scalable Vision Learners |[Paper](https://arxiv.org/abs/
 An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale | [Paper](https://arxiv.org/abs/2010.11929)
 Scaling Language Models: Methods, Analysis & Insights from Training Gopher | [Paper](https://storage.googleapis.com/deepmind-media/research/language-research/Training%20Gopher.pdf)
 Inductive Biases for Deep Learning of Higher-Level Cognition | [Paper](https://arxiv.org/pdf/2011.15091.pdf)
+Distilling the knowledge in a neural network | [Paper](https://arxiv.org/abs/1503.02531) & [Blog](https://wandb.ai/authors/knowledge-distillation/reports/Distilling-Knowledge-in-Neural-Networks--VmlldzoyMjkxODk) & [Video](https://www.youtube.com/watch?v=k63qGsH1jLo&t=986s) & [Another Blog](https://blog.floydhub.com/knowledge-distillation/)
