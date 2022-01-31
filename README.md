@@ -29,3 +29,6 @@ Fast KNN | [Github](https://github.com/criteo/autofaiss)
 speed up your Scikit-learn application | [Github](https://github.com/intel/scikit-learn-intelex)
 interviews.ai | [Github](https://github.com/BoltzmannEntropy/interviews.ai)
 Linear Algebra Review | [Course](http://www.cs.cmu.edu/~zkolter/course/linalg/index.html)
+Useful Books | [Reading](https://thesequence.substack.com/p/readinglist?utm_source=substack&utm_campaign=post_embed&utm_medium=web)
+Useful Courses | [Courses](https://thesequence.substack.com/p/courses)
+
