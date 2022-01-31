@@ -15,3 +15,4 @@ Scaling Language Models: Methods, Analysis & Insights from Training Gopher | [Pa
 Inductive Biases for Deep Learning of Higher-Level Cognition | [Paper](https://arxiv.org/pdf/2011.15091.pdf)
 Distilling the knowledge in a neural network | [Paper](https://arxiv.org/abs/1503.02531) & [Blog](https://wandb.ai/authors/knowledge-distillation/reports/Distilling-Knowledge-in-Neural-Networks--VmlldzoyMjkxODk) & [Video](https://www.youtube.com/watch?v=k63qGsH1jLo&t=986s) & [Another Blog](https://blog.floydhub.com/knowledge-distillation/)
 Distilling Task-Specific Knowledge from BERT into Simple Neural Networks | [Paper](https://arxiv.org/pdf/1903.12136.pdf) & [Video](https://www.youtube.com/watch?v=Xji8NmL3FvQ&t=636s) & [Video](https://www.youtube.com/watch?v=AKCPPvaz8tU&t=1955s) & [Blog](https://blog.floydhub.com/knowledge-distillation/)
+Explaining Knowledge Distillation By Quantifiying The Knowledge | [Video](https://www.youtube.com/watch?v=IBfQfuKA0Y8)
