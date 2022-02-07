@@ -1,34 +1,33 @@
 Topic | Done
 ------------|----- 
-Perciever |  | 
-LMS few shot  | |
-Spectral Bias | |
+Perciever |  :heavy_check_mark: 
+LMS few shot  | :heavy_check_mark:
+Spectral Bias | :heavy_check_mark:
 CLip| | 
 Dalle | |
 Google LMs | |
 GNN | |
-Deepmind lms|
-NTK|
+Deepmind lms| :heavy_check_mark:
+NTK| :heavy_check_mark:
 Microsoft LM|
 Overparmerization theory|
-Shortcut Learning|
-Gradient Stravation|
-Add Knowledge to LM|
+Shortcut Learning| :heavy_check_mark:
+Gradient Stravation| :heavy_check_mark:
+Add Knowledge to LM| :heavy_check_mark:
 Deep Double Descent|
-Inductive Bias|
-Sparse Trans|
+Inductive Bias| :heavy_check_mark:
+Sparse Trans| 
 Hash Trick|
-Knowledge Distillation|
+Knowledge Distillation| :heavy_check_mark:
 GAN|
-Noisy Student|
+Noisy Student| :heavy_check_mark:
 LAMBDA|
 MTL using FineTuning|
-Baysian Stats | |
-Overparams | |
+Baysian Stats | 
 PonderNet | |
 DL Nature Paper | |
 DL for AI Paper | |
-NN are Kernel Machines | | 
+NN are Kernel Machines | 
 BigBird | |
 FT | | 
 All of Statitics|
