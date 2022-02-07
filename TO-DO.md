@@ -1,5 +1,5 @@
 Topic | Done
------------- ----- | 
+------------|----- 
 Perciever |  | 
 LMS few shot  | |
 Spectral Bias | |
