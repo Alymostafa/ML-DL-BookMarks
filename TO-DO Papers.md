@@ -8,6 +8,7 @@ The Modern Mathematics of Deep Learning | [Paper](https://arxiv.org/abs/2105.040
 The Next Decade in AI: Four Steps Towards Robust Artificial Intelligence | [Paper](https://arxiv.org/abs/2002.06177)
 A Beginner’s Guide to the Mathematics of Neural Networks | [Paper](https://link.springer.com/chapter/10.1007/978-1-4471-3427-5_2)
 Exploring Simple Siamese Representation Learning | [Paper](https://arxiv.org/abs/2011.10566) & [Github](https://github.com/BobMcDear/PyTorch-SimSiam/?fbclid=IwAR1j_9_2CoWIJAuWEIsMBGXUar59UeB2sg9Wb404Lmgz5X5hyT94-RCX2mg)
+Efficient Deep Learning: A Survey on Making Deep Learning Models Smaller, Faster, and Better | [Paper](https://arxiv.org/abs/2106.08962)
 Data | [Medium](https://medium.datadriveninvestor.com/simsiam-in-pytorch-part-1-the-data-ecbe2234c1a fbclid=IwAR3zPnebjvbqbvIeRb_qaoquiQOwwnWE1Ax_qgb3YN7cCg3ROmKq_TMYP7A&gi=8deaddfa16fb) 
 Non-Contrastive Learning and Model Collapse | [Medium](https://medium.datadriveninvestor.com/simsiam-in-pytorch-part-2-non-contrastive-learning-and-model-collapse e89c85927d9c?fbclid=IwAR0ec8ZfkDxuPHdlBs0pLcP-chy1HsAzLFucOSjgrt0zBaTLpJf5syHsDv4)
 Solving Model Collapse |  [Medium](https://medium.datadriveninvestor.com/simsiam-in-pytorch-part-3-solving-model-collapse-1828bfcd0bf4)
