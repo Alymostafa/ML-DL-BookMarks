@@ -17,3 +17,4 @@ Distilling the knowledge in a neural network | [Paper](https://arxiv.org/abs/150
 Distilling Task-Specific Knowledge from BERT into Simple Neural Networks | [Paper](https://arxiv.org/pdf/1903.12136.pdf) & [Video](https://www.youtube.com/watch?v=Xji8NmL3FvQ&t=636s) & [Video](https://www.youtube.com/watch?v=AKCPPvaz8tU&t=1955s) & [Blog](https://blog.floydhub.com/knowledge-distillation/)
 Explaining Knowledge Distillation By Quantifiying The Knowledge | [Video](https://www.youtube.com/watch?v=IBfQfuKA0Y8)
 Self-training with Noisy Student improves ImageNet classification | [Paper](https://arxiv.org/abs/1911.04252)
+How to avoid machine learning pitfalls: a guide for academic researchers | [Paper](https://arxiv.org/pdf/2108.02497.pdf)
