@@ -1,6 +1,7 @@
 Paper       | Resources
 ------------|-----------
 Diversify and Disambiguate: Learning From Underspecified Data |https://arxiv.org/pdf/2202.03418.pdf
+Bag of tricks for efficient text classification | https://arxiv.org/abs/1607.01759
 How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers | [Paper](https://arxiv.org/abs/2106.10270)
 Torch.manual_seed(3407) is all you need: On the influence of random seeds in deep learning architectures for computer vision | [Paper](https://arxiv.org/abs/2109.08203)
 Deep Learning Through the Lens of Example Difficulty| [Paper](https://arxiv.org/abs/2106.09647?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+arxiv%252FQSXk+%2528ExcitingAds%2521+cs+updates+on+arXiv.org%2529)
