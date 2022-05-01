@@ -1,5 +1,7 @@
 Paper       | Resources
 ------------|-----------
+The Effects of Regularization and Data Augmentation are Class Dependent | https://arxiv.org/pdf/2204.03632v1.pdf
+UNIFIED SCALING LAWS FOR ROUTED LANGUAGE MODELS | https://arxiv.org/abs/2202.01169
 Diversify and Disambiguate: Learning From Underspecified Data |https://arxiv.org/pdf/2202.03418.pdf
 Bag of tricks for efficient text classification | https://arxiv.org/abs/1607.01759
 How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers | [Paper](https://arxiv.org/abs/2106.10270)
