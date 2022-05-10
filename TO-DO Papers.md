@@ -1,5 +1,6 @@
 Paper       | Resources
 ------------|-----------
+Self-Distillation Amplifies Regularization in Hilbert Space | https://arxiv.org/abs/2002.05715
 Fine-Tuning can Distort Pretrained Features and Underperform Out-of-Distribution | https://arxiv.org/abs/2202.10054
 The Effects of Regularization and Data Augmentation are Class Dependent | https://arxiv.org/pdf/2204.03632v1.pdf
 UNIFIED SCALING LAWS FOR ROUTED LANGUAGE MODELS | https://arxiv.org/abs/2202.01169
