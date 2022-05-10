@@ -1,5 +1,6 @@
 Paper       | Resources
 ------------|-----------
+Fine-Tuning can Distort Pretrained Features and Underperform Out-of-Distribution | https://arxiv.org/abs/2202.10054
 The Effects of Regularization and Data Augmentation are Class Dependent | https://arxiv.org/pdf/2204.03632v1.pdf
 UNIFIED SCALING LAWS FOR ROUTED LANGUAGE MODELS | https://arxiv.org/abs/2202.01169
 Diversify and Disambiguate: Learning From Underspecified Data |https://arxiv.org/pdf/2202.03418.pdf
