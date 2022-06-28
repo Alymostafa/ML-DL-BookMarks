@@ -1,5 +1,6 @@
 Paper       | Resources
 ------------|-----------
+ The power of depth for feedforward neural networks |
 Self-Distillation Amplifies Regularization in Hilbert Space | [Paper](https://arxiv.org/abs/2002.05715)
 Fine-Tuning can Distort Pretrained Features and Underperform Out-of-Distribution | [Paper](https://arxiv.org/abs/2202.10054)
 The Effects of Regularization and Data Augmentation are Class Dependent | [Paper](https://arxiv.org/pdf/2204.03632v1.pdf)
