@@ -3,6 +3,7 @@
 
 Topic | Resources |
 ------------  |------|
+Large Language Models and the Future of AI with Connor Leahy, EleutherAI | [Video](https://www.youtube.com/watch?v=StLtMcsbQes&t=473s)
 Train PhD students to be thinkers not just specialists | [Paper](https://www.nature.com/articles/d41586-018-01853-1)
 Statistical Machine Learning — Ulrike von Luxburg, 2020 | [Youtube](https://youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC) | |  
 Bishop: Pattern Recognition and Machine Learning | Book | | 
