@@ -1,5 +1,6 @@
 Paper       | Resources
 ------------|-----------
+ How BERT Works
  The power of depth for feedforward neural networks |
  Prompt Engineering |
 Self-Distillation Amplifies Regularization in Hilbert Space | [Paper](https://arxiv.org/abs/2002.05715)
