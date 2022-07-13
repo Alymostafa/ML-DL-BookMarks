@@ -19,3 +19,5 @@ Explaining Knowledge Distillation By Quantifiying The Knowledge | [Video](https:
 Self-training with Noisy Student improves ImageNet classification | [Paper](https://arxiv.org/abs/1911.04252)
 How to avoid machine learning pitfalls: a guide for academic researchers | [Paper](https://arxiv.org/pdf/2108.02497.pdf)
 OUTRAGEOUSLY LARGE NEURAL NETWORKS: THE SPARSELY-GATED MIXTURE-OF-EXPERTS LAYER | [Paper](https://arxiv.org/abs/1701.06538)
+What Happens To BERT Embeddings During Fine-tuning? | [Paper](https://arxiv.org/pdf/2004.14448)
+
