@@ -1,5 +1,6 @@
 Paper       | Resources
 ------------|-----------
+UNIVERSAL TRANSFORMERS | [Paper](https://arxiv.org/pdf/1807.03819v3.pdf)
 Scaling Laws for Neural Language Models | [Paper](https://arxiv.org/pdf/2001.08361.pdf)
  How BERT Works
  The power of depth for feedforward neural networks |
