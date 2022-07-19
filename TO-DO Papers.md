@@ -1,9 +1,11 @@
 Paper       | Resources
 ------------|-----------
+Adaptive Computation | [Blog](https://moocaholic.medium.com/adaptive-computation-time-act-in-neural-networks-part-1-2a28484b53df)
+PonderNet | [Paper](https://arxiv.org/pdf/2107.05407.pdf)
 UNIVERSAL TRANSFORMERS | [Paper](https://arxiv.org/pdf/1807.03819v3.pdf)
- How BERT Works
+ How BERT Works | 
  The power of depth for feedforward neural networks |
- Prompt Engineering | [Blog](https://thegradient.pub/prompting/)
+ Prompt Engineering | [Blog](https://thegradient.pub/prompting/)[Paper](https://arxiv.org/abs/2107.13586v1)
 Self-Distillation Amplifies Regularization in Hilbert Space | [Paper](https://arxiv.org/abs/2002.05715)
 Fine-Tuning can Distort Pretrained Features and Underperform Out-of-Distribution | [Paper](https://arxiv.org/abs/2202.10054)
 The Effects of Regularization and Data Augmentation are Class Dependent | [Paper](https://arxiv.org/pdf/2204.03632v1.pdf)
